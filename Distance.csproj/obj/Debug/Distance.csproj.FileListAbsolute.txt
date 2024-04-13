@@ -1,0 +1,10 @@
+C:\Users\madpa\OneDrive\Рабочий стол\Distance.csproj\bin\Debug\Distance.exe.config
+C:\Users\madpa\OneDrive\Рабочий стол\Distance.csproj\bin\Debug\Distance.exe
+C:\Users\madpa\OneDrive\Рабочий стол\Distance.csproj\bin\Debug\Distance.pdb
+C:\Users\madpa\OneDrive\Рабочий стол\Distance.csproj\bin\Debug\TestingRoom.dll
+C:\Users\madpa\OneDrive\Рабочий стол\Distance.csproj\obj\Debug\Distance.csproj.AssemblyReference.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Distance.csproj\obj\Debug\Distance.csproj.SuggestedBindingRedirects.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Distance.csproj\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Distance.csproj\obj\Debug\Distance.csproj.CopyComplete
+C:\Users\madpa\OneDrive\Рабочий стол\Distance.csproj\obj\Debug\Distance.exe
+C:\Users\madpa\OneDrive\Рабочий стол\Distance.csproj\obj\Debug\Distance.pdb

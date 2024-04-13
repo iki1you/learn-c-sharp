@@ -1,0 +1,8 @@
+C:\Users\madpa\OneDrive\Рабочий стол\DragonFractal.csproj\bin\Debug\DragonFractal.exe.config
+C:\Users\madpa\OneDrive\Рабочий стол\DragonFractal.csproj\bin\Debug\DragonFractal.exe
+C:\Users\madpa\OneDrive\Рабочий стол\DragonFractal.csproj\bin\Debug\DragonFractal.pdb
+C:\Users\madpa\OneDrive\Рабочий стол\DragonFractal.csproj\obj\Debug\DragonFractal.csproj.AssemblyReference.cache
+C:\Users\madpa\OneDrive\Рабочий стол\DragonFractal.csproj\obj\Debug\DragonFractal.csproj.SuggestedBindingRedirects.cache
+C:\Users\madpa\OneDrive\Рабочий стол\DragonFractal.csproj\obj\Debug\DragonFractal.csproj.CoreCompileInputs.cache
+C:\Users\madpa\OneDrive\Рабочий стол\DragonFractal.csproj\obj\Debug\DragonFractal.exe
+C:\Users\madpa\OneDrive\Рабочий стол\DragonFractal.csproj\obj\Debug\DragonFractal.pdb

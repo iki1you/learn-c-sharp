@@ -1,0 +1,9 @@
+C:\Users\madpa\OneDrive\Рабочий стол\Pluralize.csproj(1)\bin\Debug\rubles.txt
+C:\Users\madpa\OneDrive\Рабочий стол\Pluralize.csproj(1)\bin\Debug\Pluralize.exe.config
+C:\Users\madpa\OneDrive\Рабочий стол\Pluralize.csproj(1)\bin\Debug\Pluralize.exe
+C:\Users\madpa\OneDrive\Рабочий стол\Pluralize.csproj(1)\bin\Debug\Pluralize.pdb
+C:\Users\madpa\OneDrive\Рабочий стол\Pluralize.csproj(1)\obj\Debug\Pluralize.csproj.AssemblyReference.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Pluralize.csproj(1)\obj\Debug\Pluralize.csproj.SuggestedBindingRedirects.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Pluralize.csproj(1)\obj\Debug\Pluralize.csproj.CoreCompileInputs.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Pluralize.csproj(1)\obj\Debug\Pluralize.exe
+C:\Users\madpa\OneDrive\Рабочий стол\Pluralize.csproj(1)\obj\Debug\Pluralize.pdb

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/madpa/source/repos/gamefirst/gamefirst/Content/../../../../../Desktop/Free Platform Game Assets/Free Platform Game Assets/Platform Game Assets/Tiles/png/128x128/Grass.png</File>
+    <File>C:/Users/madpa/source/repos/gamefirst/gamefirst/Content/char_blue_1.png</File>
+    <File>C:/Users/madpa/source/repos/gamefirst/gamefirst/Content/mainchar.png</File>
+    <File>C:/Users/madpa/source/repos/gamefirst/gamefirst/Content/mainchar2.png</File>
+    <File>C:/Users/madpa/source/repos/gamefirst/gamefirst/Content/run.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Grass.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

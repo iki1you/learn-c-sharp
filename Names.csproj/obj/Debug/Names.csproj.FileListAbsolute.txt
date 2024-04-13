@@ -1,0 +1,24 @@
+C:\Users\madpa\OneDrive\Рабочий стол\Names.csproj\bin\Debug\names.txt
+C:\Users\madpa\OneDrive\Рабочий стол\Names.csproj\bin\Debug\Names.exe.config
+C:\Users\madpa\OneDrive\Рабочий стол\Names.csproj\bin\Debug\Names.exe
+C:\Users\madpa\OneDrive\Рабочий стол\Names.csproj\bin\Debug\Names.pdb
+C:\Users\madpa\OneDrive\Рабочий стол\Names.csproj\bin\Debug\ZedGraph.dll
+C:\Users\madpa\OneDrive\Рабочий стол\Names.csproj\bin\Debug\ZedGraph.xml
+C:\Users\madpa\OneDrive\Рабочий стол\Names.csproj\obj\Debug\Names.csproj.AssemblyReference.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Names.csproj\obj\Debug\Names.csproj.SuggestedBindingRedirects.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Names.csproj\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Names.csproj\obj\Debug\Names.csproj.CopyComplete
+C:\Users\madpa\OneDrive\Рабочий стол\Names.csproj\obj\Debug\Names.exe
+C:\Users\madpa\OneDrive\Рабочий стол\Names.csproj\obj\Debug\Names.pdb
+C:\Users\madpa\Desktop\Names.csproj\bin\Debug\names.txt
+C:\Users\madpa\Desktop\Names.csproj\bin\Debug\Names.exe.config
+C:\Users\madpa\Desktop\Names.csproj\bin\Debug\Names.exe
+C:\Users\madpa\Desktop\Names.csproj\bin\Debug\Names.pdb
+C:\Users\madpa\Desktop\Names.csproj\bin\Debug\ZedGraph.dll
+C:\Users\madpa\Desktop\Names.csproj\bin\Debug\ZedGraph.xml
+C:\Users\madpa\Desktop\Names.csproj\obj\Debug\Names.csproj.AssemblyReference.cache
+C:\Users\madpa\Desktop\Names.csproj\obj\Debug\Names.csproj.SuggestedBindingRedirects.cache
+C:\Users\madpa\Desktop\Names.csproj\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\madpa\Desktop\Names.csproj\obj\Debug\Names.csproj.CopyComplete
+C:\Users\madpa\Desktop\Names.csproj\obj\Debug\Names.exe
+C:\Users\madpa\Desktop\Names.csproj\obj\Debug\Names.pdb

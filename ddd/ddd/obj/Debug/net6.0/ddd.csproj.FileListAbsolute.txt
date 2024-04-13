@@ -1,0 +1,12 @@
+C:\Users\madpa\source\repos\ddd\ddd\bin\Debug\net6.0\ddd.deps.json
+C:\Users\madpa\source\repos\ddd\ddd\bin\Debug\net6.0\ddd.dll
+C:\Users\madpa\source\repos\ddd\ddd\bin\Debug\net6.0\ddd.pdb
+C:\Users\madpa\source\repos\ddd\ddd\obj\Debug\net6.0\ddd.csproj.AssemblyReference.cache
+C:\Users\madpa\source\repos\ddd\ddd\obj\Debug\net6.0\ddd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madpa\source\repos\ddd\ddd\obj\Debug\net6.0\ddd.AssemblyInfoInputs.cache
+C:\Users\madpa\source\repos\ddd\ddd\obj\Debug\net6.0\ddd.AssemblyInfo.cs
+C:\Users\madpa\source\repos\ddd\ddd\obj\Debug\net6.0\ddd.csproj.CoreCompileInputs.cache
+C:\Users\madpa\source\repos\ddd\ddd\obj\Debug\net6.0\ddd.dll
+C:\Users\madpa\source\repos\ddd\ddd\obj\Debug\net6.0\refint\ddd.dll
+C:\Users\madpa\source\repos\ddd\ddd\obj\Debug\net6.0\ddd.pdb
+C:\Users\madpa\source\repos\ddd\ddd\obj\Debug\net6.0\ref\ddd.dll

@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Rectangles, Configuration: Debug Any CPU ------
+1>  Rectangles -> C:\Users\madpa\OneDrive\Рабочий стол\Rectangles.csproj\bin\Debug\Rectangles.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

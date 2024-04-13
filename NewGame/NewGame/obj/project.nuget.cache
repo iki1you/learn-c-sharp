@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ynMyGTgyPJ3t1/s2f9bx2ZhJc5MHbLxaMBlSsXUCM+0YX/xdwJ15VELkisfL2SAdmVb8I4fP7OHRlb7sFS+1Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\madpa\\source\\repos\\NewGame\\NewGame\\NewGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\madpa\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\madpa\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

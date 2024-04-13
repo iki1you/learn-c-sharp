@@ -1,0 +1,8 @@
+C:\Users\madpa\OneDrive\Рабочий стол\Ifs-GravityBalls\bin\Debug\GravityBalls.exe.config
+C:\Users\madpa\OneDrive\Рабочий стол\Ifs-GravityBalls\bin\Debug\GravityBalls.exe
+C:\Users\madpa\OneDrive\Рабочий стол\Ifs-GravityBalls\bin\Debug\GravityBalls.pdb
+C:\Users\madpa\OneDrive\Рабочий стол\Ifs-GravityBalls\obj\Debug\GravityBalls.csproj.AssemblyReference.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Ifs-GravityBalls\obj\Debug\GravityBalls.csproj.SuggestedBindingRedirects.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Ifs-GravityBalls\obj\Debug\GravityBalls.csproj.CoreCompileInputs.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Ifs-GravityBalls\obj\Debug\GravityBalls.exe
+C:\Users\madpa\OneDrive\Рабочий стол\Ifs-GravityBalls\obj\Debug\GravityBalls.pdb

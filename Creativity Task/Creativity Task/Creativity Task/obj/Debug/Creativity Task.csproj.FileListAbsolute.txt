@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Creativity Task\Creativity Task\bin\Debug\Creativity Task.exe.config
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Creativity Task\Creativity Task\bin\Debug\Creativity Task.exe
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Creativity Task\Creativity Task\bin\Debug\Creativity Task.pdb
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Creativity Task\Creativity Task\obj\Debug\Creativity Task.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Creativity Task\Creativity Task\obj\Debug\Creativity Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Creativity Task\Creativity Task\obj\Debug\Creativity_Task.Form1.resources
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Creativity Task\Creativity Task\obj\Debug\Creativity_Task.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Creativity Task\Creativity Task\obj\Debug\Creativity Task.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Creativity Task\Creativity Task\obj\Debug\Creativity Task.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Creativity Task\Creativity Task\obj\Debug\Creativity Task.exe
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Creativity Task\Creativity Task\obj\Debug\Creativity Task.pdb

@@ -1,0 +1,12 @@
+C:\Users\madpa\OneDrive\Рабочий стол\Risovatel.csproj\bin\Debug\RefactorMe.exe.config
+C:\Users\madpa\OneDrive\Рабочий стол\Risovatel.csproj\bin\Debug\RefactorMe.exe
+C:\Users\madpa\OneDrive\Рабочий стол\Risovatel.csproj\bin\Debug\RefactorMe.pdb
+C:\Users\madpa\OneDrive\Рабочий стол\Risovatel.csproj\bin\Debug\nunit.framework.dll
+C:\Users\madpa\OneDrive\Рабочий стол\Risovatel.csproj\obj\Debug\Risovatel.csproj.AssemblyReference.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Risovatel.csproj\obj\Debug\Risovatel.csproj.SuggestedBindingRedirects.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Risovatel.csproj\obj\Debug\RefactorMe.Properties.Resources.resources
+C:\Users\madpa\OneDrive\Рабочий стол\Risovatel.csproj\obj\Debug\Risovatel.csproj.GenerateResource.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Risovatel.csproj\obj\Debug\Risovatel.csproj.CoreCompileInputs.cache
+C:\Users\madpa\OneDrive\Рабочий стол\Risovatel.csproj\obj\Debug\Risovatel.csproj.CopyComplete
+C:\Users\madpa\OneDrive\Рабочий стол\Risovatel.csproj\obj\Debug\RefactorMe.exe
+C:\Users\madpa\OneDrive\Рабочий стол\Risovatel.csproj\obj\Debug\RefactorMe.pdb
